@@ -1,0 +1,34 @@
+{
+  "name": "mdsplit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "npx standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denisoster/mdsplit.git"
+  },
+  "keywords": [
+    "mdsplit",
+    "markdown",
+    "md",
+    "gfm",
+    "toc",
+    "nextra"
+  ],
+  "author": "Denis Oster",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/denisoster/mdsplit/issues"
+  },
+  "homepage": "https://github.com/denisoster/mdsplit#readme",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "slugify": "^1.6.6"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
